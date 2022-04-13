@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tRr3aa5kacGSL0wXcfn453zNZqPIfqbPVT6fss3S/a4WOmjvk5DNVXMkdWy2nRs0kMV5WZeerCODAH6l3cH+3Q==",
+  "dgSpecHash": "DBfLWjgqtEkXTzPdd70NJ/PYyqe63g2vFeUDEvCnT9JPiXdWdqN8S397jD8pi0dYFoy5iGWHFmsE0s3FaI/oGQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Test\\Mindbox\\GeometryTools\\GeometryTools\\GeometryTools.csproj",
+  "projectFilePath": "D:\\Projects\\Test\\Mindbox\\Repository\\GeometryTools\\GeometryTools\\GeometryTools.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tchet\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\tchet\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",

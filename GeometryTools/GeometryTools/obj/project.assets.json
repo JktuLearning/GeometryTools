@@ -257,11 +257,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Test\\Mindbox\\GeometryTools\\GeometryTools\\GeometryTools.csproj",
+      "projectUniqueName": "D:\\Projects\\Test\\Mindbox\\Repository\\GeometryTools\\GeometryTools\\GeometryTools.csproj",
       "projectName": "GeometryTools",
-      "projectPath": "D:\\Projects\\Test\\Mindbox\\GeometryTools\\GeometryTools\\GeometryTools.csproj",
+      "projectPath": "D:\\Projects\\Test\\Mindbox\\Repository\\GeometryTools\\GeometryTools\\GeometryTools.csproj",
       "packagesPath": "C:\\Users\\tchet\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Test\\Mindbox\\GeometryTools\\GeometryTools\\obj\\",
+      "outputPath": "D:\\Projects\\Test\\Mindbox\\Repository\\GeometryTools\\GeometryTools\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tchet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -314,7 +314,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

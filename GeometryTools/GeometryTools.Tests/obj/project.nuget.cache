@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UI9ihcyIRps3KjCpkBqgEvXm4Lm5czBbB6AGCq+wqhV61gE9D3SepuQYpkJo5FAvZautJRVVYf/emAqSWC7mfw==",
+  "dgSpecHash": "mzjevx6DIRZcxOzaaM8EtyVhE/Lysl8VCz4bHf7OtdibstWCNakDdaARxZQLOoVma1QZT17BtJcGZUq01YGKvQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Test\\Mindbox\\GeometryTools\\GeometryTools.Tests\\GeometryTools.Tests.csproj",
+  "projectFilePath": "D:\\Projects\\Test\\Mindbox\\Repository\\GeometryTools\\GeometryTools.Tests\\GeometryTools.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tchet\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
     "C:\\Users\\tchet\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

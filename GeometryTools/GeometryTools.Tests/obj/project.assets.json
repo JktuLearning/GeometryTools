@@ -3826,11 +3826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Test\\Mindbox\\GeometryTools\\GeometryTools.Tests\\GeometryTools.Tests.csproj",
+      "projectUniqueName": "D:\\Projects\\Test\\Mindbox\\Repository\\GeometryTools\\GeometryTools.Tests\\GeometryTools.Tests.csproj",
       "projectName": "GeometryTools.Tests",
-      "projectPath": "D:\\Projects\\Test\\Mindbox\\GeometryTools\\GeometryTools.Tests\\GeometryTools.Tests.csproj",
+      "projectPath": "D:\\Projects\\Test\\Mindbox\\Repository\\GeometryTools\\GeometryTools.Tests\\GeometryTools.Tests.csproj",
       "packagesPath": "C:\\Users\\tchet\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Test\\Mindbox\\GeometryTools\\GeometryTools.Tests\\obj\\",
+      "outputPath": "D:\\Projects\\Test\\Mindbox\\Repository\\GeometryTools\\GeometryTools.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tchet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3847,8 +3847,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\Test\\Mindbox\\GeometryTools\\GeometryTools\\GeometryTools.csproj": {
-              "projectPath": "D:\\Projects\\Test\\Mindbox\\GeometryTools\\GeometryTools\\GeometryTools.csproj"
+            "D:\\Projects\\Test\\Mindbox\\Repository\\GeometryTools\\GeometryTools\\GeometryTools.csproj": {
+              "projectPath": "D:\\Projects\\Test\\Mindbox\\Repository\\GeometryTools\\GeometryTools\\GeometryTools.csproj"
             }
           }
         }
@@ -3891,7 +3891,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
